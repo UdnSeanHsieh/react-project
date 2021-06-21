@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 import sort from 'array-sort';
 import { List, Form, Input, DatePicker, Button } from 'antd';
 import 'antd/dist/antd.css';
-import { CheckOutlined, CloseCircleFilled } from ' ';
+import { CheckOutlined, CloseCircleFilled } from '@ant-design/icons';
 import './App.css';
 
 const TodoItem = ({
